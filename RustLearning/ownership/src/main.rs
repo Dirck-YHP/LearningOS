@@ -1,7 +1,16 @@
 fn main() {
-    let mut s = String::from("Hehehehe");
+    let s = String::from("sth");
+    takes_ownership(s);
+    // println!("{}", s);
 
-    s.push_str(", shabi hhhahaha ");
+    let x = 88;
+    makes_copy(x);
+}
 
-    println!("str:{}", s);
+fn takes_ownership(some_string: String) {
+    println!("{}", some_string);
+}
+
+fn makes_copy(some_integer: i32) {
+    println!("{}", some_integer);
 }
