@@ -1,0 +1,1 @@
+/home/dirck/CodeFiled/Cpp/myProj/6_OS/LearningOS/RustLearning/chapter5_rectangles/target/debug/chapter5_rectangles: /home/dirck/CodeFiled/Cpp/myProj/6_OS/LearningOS/RustLearning/chapter5_rectangles/src/main.rs
