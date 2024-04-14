@@ -1,0 +1,1 @@
+/home/dirck/CodeFiled/Cpp/myProj/6_OS/LearningOS/RustLearning/chapter8_collections/target/debug/chapter8_collections: /home/dirck/CodeFiled/Cpp/myProj/6_OS/LearningOS/RustLearning/chapter8_collections/src/main.rs
