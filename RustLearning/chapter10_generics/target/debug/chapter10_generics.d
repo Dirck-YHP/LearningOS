@@ -1,0 +1,1 @@
+/home/dirck/CodeFiled/Cpp/myProj/6_OS/LearningOS/RustLearning/chapter10_generics/target/debug/chapter10_generics: /home/dirck/CodeFiled/Cpp/myProj/6_OS/LearningOS/RustLearning/chapter10_generics/src/main.rs

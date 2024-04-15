@@ -1,0 +1,1 @@
+/home/dirck/CodeFiled/Cpp/myProj/6_OS/LearningOS/RustLearning/chapter10_lifetime/target/debug/chapter10_lifetime: /home/dirck/CodeFiled/Cpp/myProj/6_OS/LearningOS/RustLearning/chapter10_lifetime/src/main.rs
