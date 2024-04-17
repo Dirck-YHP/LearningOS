@@ -1,0 +1,1 @@
+/home/dirck/CodeFiled/Cpp/myProj/6_OS/LearningOS/RustLearning/chapter12_minigrep/target/debug/chapter12_minigrep: /home/dirck/CodeFiled/Cpp/myProj/6_OS/LearningOS/RustLearning/chapter12_minigrep/src/main.rs
