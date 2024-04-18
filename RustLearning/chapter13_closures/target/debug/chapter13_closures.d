@@ -1,0 +1,1 @@
+/home/dirck/CodeFiled/Cpp/myProj/6_OS/LearningOS/RustLearning/chapter13_closures/target/debug/chapter13_closures: /home/dirck/CodeFiled/Cpp/myProj/6_OS/LearningOS/RustLearning/chapter13_closures/src/main.rs
