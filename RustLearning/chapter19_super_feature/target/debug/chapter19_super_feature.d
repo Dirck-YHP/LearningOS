@@ -1,0 +1,1 @@
+/home/dirck/CodeFiled/Cpp/myProj/6_OS/LearningOS/RustLearning/chapter19_super_feature/target/debug/chapter19_super_feature: /home/dirck/CodeFiled/Cpp/myProj/6_OS/LearningOS/RustLearning/chapter19_super_feature/src/main.rs
