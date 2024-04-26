@@ -1,0 +1,1 @@
+/home/dirck/CodeFiled/Cpp/myProj/6_OS/LearningOS/RustLearning/lists/target/debug/liblists.rlib: /home/dirck/CodeFiled/Cpp/myProj/6_OS/LearningOS/RustLearning/lists/src/first.rs /home/dirck/CodeFiled/Cpp/myProj/6_OS/LearningOS/RustLearning/lists/src/lib.rs
